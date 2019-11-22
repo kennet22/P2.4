@@ -1,2 +1,2 @@
-# P2.4
+# Tic Tac Toe 
 HCI Project 2 by Group 4
