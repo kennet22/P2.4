@@ -5,9 +5,11 @@ HCI Project 2 by Group 4
 
 From left to right: Kennet Thurman, Joshua Acosta, Logan Powers, Terran King
 
-![sketch](https://github.com/kennet22/P2.4/blob/master/tictactoeSketch.jpg?raw=true)
-
 ## Features:
 - Tic Tac Toe Game: Logan and Terran
 - Menu: Josh
 - Leaderboards: Kennet
+
+![sketch](https://github.com/kennet22/P2.4/blob/master/tictactoeSketch.jpg?raw=true)
+
+
