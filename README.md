@@ -10,14 +10,13 @@ From left to right: Kennet Thurman, Joshua Acosta, Logan Powers, Terran King
 ![demo](https://media.giphy.com/media/TIiG5Y278z4JJOtG5K/giphy.gif)
 
 ## Task description
-The task we are focusing on here is the initial game itself. Since we are doing a Tic Tac Toe game we will just be focused on the game part itself bc that’s the most important part. We will make and implement the menu and high scores board later on but for todays testing and reviews we just want to get the game component done.
-
-## Hypothesis
-Our hypothesis is that the people we question and let play our game will like it and enjoye it. This doesnt mean much to us as Tic Tac Toe is a universal game and everyones played it before. But are hoping for some good feedback as to how the game is running and is there are any UI improvements to be made.
+Tic Tac Toe is a universal game that we have expanded upon with an adjustable board size. The goal is to get n in a row where n is the board size(nxn). 
 
 ## Features:
 - Classic tic tac toe game
 - Winner and tie results page
+- Menu screen
+- Resizable playing board
 
 ## Original Sketch
 ![sketch](https://github.com/kennet22/P2.4/blob/master/tictactoeSketch.jpg?raw=true)
