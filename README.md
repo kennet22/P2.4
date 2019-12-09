@@ -7,7 +7,7 @@ From left to right: Kennet Thurman, Joshua Acosta, Logan Powers, Terran King
 
 # Demo
 
-![demo](https://s5.gifyu.com/images/demoa72382f5ed56d970.gif)
+![demo](https://media.giphy.com/media/TIiG5Y278z4JJOtG5K/giphy.gif)
 
 ## Task description
 The task we are focusing on here is the initial game itself. Since we are doing a Tic Tac Toe game we will just be focused on the game part itself bc that’s the most important part. We will make and implement the menu and high scores board later on but for todays testing and reviews we just want to get the game component done.
