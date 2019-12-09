@@ -16,7 +16,7 @@ Tic Tac Toe is a universal game that we have expanded upon with an adjustable bo
 - Classic tic tac toe game
 - Winner and tie results page
 - Menu screen
-- Resizable playing board
+- Resizable playing board slider
 
 ## Original Sketch
 ![sketch](https://github.com/kennet22/P2.4/blob/master/tictactoeSketch.jpg?raw=true)
